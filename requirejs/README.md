@@ -8,3 +8,6 @@ This mobile application is a good illustration of the Model-View-ViewModel (MVVM
 
 See our [mobile application](http://phonejs.devexpress.com/Demos/?url=TipCalculator&sm=3) online.
 
+Added RequireJS example
+--------------------------------------
+Goto the requirejs folder to see the phonejs tip calculator re factored using requirejs and no global namespaces. The viewmodels use the AMD module pattern.
