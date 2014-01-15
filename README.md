@@ -7,3 +7,6 @@ The demo is built using the [PhoneJS mobile framework](http://phonejs.devexpress
 This mobile application is a good illustration of the Model-View-ViewModel (MVVM) structured approach. It can be launched in a mobile browser or turned into native packages ready for stores via packaging services, such as [PhoneGap Build](http://build.phonegap.com).
 
 See our [mobile application](http://phonejs.devexpress.com/Demos/?url=TipCalculator&sm=3) online.
+
+Adding RequireJS Version
+===============================
